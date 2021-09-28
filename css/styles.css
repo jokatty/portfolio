@@ -433,7 +433,6 @@ h6,
   font-size: 1.25rem;
   font-weight: 300;
 }
-
 .display-1 {
   font-size: 6rem;
   font-weight: 300;
@@ -4306,6 +4305,9 @@ input[type='button'].btn-block {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
+  /* newly added styles */
+  align-items: flex-start;
+  padding-left: 4vw;
 }
 .navbar-nav .nav-link {
   padding-right: 0;
