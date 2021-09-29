@@ -577,7 +577,10 @@ pre code {
   max-height: 340px;
   overflow-y: scroll;
 }
-
+/* new style for name */
+.name {
+  padding-left: 4vw;
+}
 .container,
 .container-fluid,
 .container-xl,
